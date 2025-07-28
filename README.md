@@ -1,6 +1,6 @@
 ## Menjalankan
 
-Pastikan Python (disarankan versi 3.11.9) dan Node.js telah terpasang di komputer Anda.
+Pastikan Python (disarankan versi 3.11.9) dan Node.js telah terpasang di komputer.
 
 ### Instalasi dan Menjalankan Aplikasi
 
