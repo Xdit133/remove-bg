@@ -1,0 +1,4 @@
+Python==3.11.9
+Flask==2.3.2
+torch==2.7.1
+Pillow==10.0.0
