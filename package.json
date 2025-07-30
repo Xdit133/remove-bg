@@ -5,7 +5,7 @@
   "main": "server-simple.js",
   "scripts": {
     "start": "node server.js",
-    "postinstall": "pip install rembg"
+    "postinstall": "pip install rembg onnxruntime"
   },
   "dependencies": {
     "express": "^5.1.0",
