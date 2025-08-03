@@ -6,6 +6,7 @@ Pastikan Python (disarankan versi 3.11.9) dan Node.js telah terpasang di kompute
 
 1. Instal dependensi:
    ```bash
+   git clone https://github.com/Xdit133/remove-bg.git
    cd remove-bg
    npm install
    npm update
@@ -21,4 +22,5 @@ Pastikan Python (disarankan versi 3.11.9) dan Node.js telah terpasang di kompute
     cd python
     python remove_bg.py --input candi-prambanan.jpg --output output.png
     ```
+
 
